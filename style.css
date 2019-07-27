@@ -1,0 +1,21 @@
+li{
+    background-color: rgb(207, 206, 206);
+    border: solid black 3px;
+    padding: 20px;
+    font-family: 'Vollkorn', serif;
+
+}
+li:nth-child(odd){
+    background-color:rgb(165, 165, 165);
+}
+
+form{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+
+}
+
